@@ -1,0 +1,7 @@
+streamlit>=1.30
+torch
+nibabel
+numpy
+matplotlib
+plotly
+scikit-image
