@@ -48,7 +48,7 @@ Ce sont les `state_dict` sauvegardés pendant l'entraînement
 (`torch.save(model.state_dict(), ...)`). Tu peux aussi les téléverser
 directement depuis la barre latérale de l'app.
 
-## 3. Intégrer ton HMSA-UNet3D
+## 3. Intégrer HMSA-UNet3D
 
 Le U-Net 3D est déjà inclus. Pour le second modèle :
 
